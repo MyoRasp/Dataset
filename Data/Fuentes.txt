@@ -1,0 +1,2 @@
+Mobile Price Classification: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?select=train.csv
+Medical Cost Personal Datasets :https://www.kaggle.com/datasets/mirichoi0218/insurance
