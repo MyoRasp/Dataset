@@ -1,3 +1,5 @@
 Mobile Price Classification: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?select=train.csv
 Medical Cost Personal Datasets :https://www.kaggle.com/datasets/mirichoi0218/insurance
 MNIST in CSV : https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?datasetId=27352&language=Python&select=mnist_test.csv
+ICU : https://www.ecdc.europa.eu/en/publications-data/download-data-hospital-and-icu-admission-rates-and-current-occupancy-covid-19
+Testing_for_Covid: https://www.ecdc.europa.eu/en/publications-data/covid-19-testing
