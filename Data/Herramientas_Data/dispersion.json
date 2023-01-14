@@ -2,27 +2,27 @@
      "nota":10,
      "ranking":500
     },
-    {"alumno":"Juan",
+    {"alumno":"Carla",
      "nota":5,
      "ranking":210
     },
-    {"alumno":"barCris",
+    {"alumno":"Elena",
      "nota":7,
      "ranking":150
     },  
-    {"alumno":"Carlangas",
+    {"alumno":"Sanson",
      "nota":8,
      "ranking":270
     },
-    {"alumno":"Luca",
+    {"alumno":"Hercules",
      "nota":4,
      "ranking":330
     },
-    {"alumno":"German",
+    {"alumno":"Marlon",
      "nota":3,
      "ranking":390
     },
-    {"alumno":"Adriana",
+    {"alumno":"Pepe",
      "nota":4,
      "ranking":400
     }]
